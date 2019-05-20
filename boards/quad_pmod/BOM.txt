@@ -1,0 +1,14 @@
+Qty-2 : 1x40 1.27mm male header straight thru-hole    ( AliExpress )
+        https://www.aliexpress.com/item/32785126666.html?spm=a2g0s.9042311.0.0.3a5f4c4dyjOp0v
+Qty-4 : 2x6  2.54mm female header straight thru-hole  ( Jameco, Digikey, etc )
+
+Qty-1 : PAM2305 IC REG BUCK ADJ 1A SYNC TSOT25, PAM2305DABADJDICT-ND
+Qty-1 : L  = FIXED IND 4.7UH 1.1A 175 MOHM 0805, 490-12073-1-ND
+Qty-1 : R1 = 510K 1% 0603 
+Qty-1 : R2 = 110K 1% 0603 
+Qty-1 : C = 100pF 0603
+Qty-1 : C = 47UF 6.3V X5R 0805, 490-9960-1-ND
+
+
+Note: 1.27mm 1x40 female headers for S7 Mini are available here:
+  https://www.aliexpress.com/item/32913712566.html?spm=a2g0s.9042311.0.0.3a5f4c4dyjOp0v
